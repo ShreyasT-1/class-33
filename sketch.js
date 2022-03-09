@@ -67,7 +67,7 @@ function setup()
   }
   else{
     canW = windowWidth
-    canH = windowHight  
+    canH = windowHeight  
     createCanvas(windowWidth,windowHight) 
   }
   createCanvas(500,700);
